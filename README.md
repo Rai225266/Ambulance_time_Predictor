@@ -70,9 +70,4 @@ Actual response-time records are unavailable. Therefore, travel time is estimate
 - Improved prediction accuracy using larger real-world datasets.
 - GPS-based ambulance tracking and route optimisation.
 
-## 👨‍💻 Developed By
-**Sourabh Rai**  
-B.Tech – Computer Science & Engineering (AI)  
-Shoolini University
-
 **Project Domain:** Machine Learning | Artificial Intelligence | Healthcare Technology
